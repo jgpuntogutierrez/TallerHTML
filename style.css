@@ -1,0 +1,85 @@
+/* Add your styles here */
+body{
+  background-color: grey;
+}
+
+
+
+h1 {
+  font-weight: bold;
+  color: yellow;
+  background-color: brown;
+  text-align:center;
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  font-weight: bold;
+  color: yellow;
+  background-color: brown;
+  text-align:center;
+  width: 100%;
+  height: 100%;
+}
+
+h3 {
+  font-weight: bold;
+  color: yellow;
+  background-color: brown;
+  text-align:left;
+  width: 100%;
+  height: 100%;
+}
+
+h4 {
+  font-weight: bold;
+  color: yellow;
+  background-color: brown;
+  text-align:left;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+#imagen1{
+  display: block;
+  margin: auto;
+  
+}
+
+#imagen2{
+  display: block;
+  margin: auto;
+  
+}
+
+#titulos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+
+
+
+#parrafo1{
+    text-align:center ;
+  width: 100%;
+  height: 100%;
+}
+
+#parrafo2{
+    text-align:center ;
+  width: 100%;
+  height: 100%;
+}
+
+#parrafo3{
+    text-align:center ;
+  width: 100%;
+  height: 100%;
+}
